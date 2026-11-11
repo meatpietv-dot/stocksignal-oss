@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.sqlite
+*.db
+__pycache__/
+.pytest_cache/
+results.json
+demo-results.json
+.venv/
+.DS_Store
